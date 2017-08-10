@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RouterConfig</string>
+    <string name="action_2">método 2</string>
+    <string name="action_1">método 1</string>
+    <string name="about">Acerca del desarrollador</string>
+    <string name="date">Tiempo de creación:17/02/2017</string>
+    <string name="about2">Shadow Of Leaf</string>
+    <string name="about3">Versión:1.0 Stable</string>
+    <string name="nocnx">No hay conexión de trabajo a Internet </string>
+    <string name="feedback">Envíe sus comentarios</string>
+    <string name="contact">Contáctame</string>
+    <string name="email">simokb46@gmail.com</string>
+    <string name="username">Nombre de usuario :</string>
+    <string name="password">Contraseña :</string>
+    <string name="authen">Autenticación</string>
+</resources>

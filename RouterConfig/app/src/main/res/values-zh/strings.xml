@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RouterConfig</string>
+    <string name="action_2">方法 2</string>
+    <string name="action_1">方法 1</string>
+    <string name="about">关于开发者</string>
+    <string name="date">创作时间:17/02/2017</string>
+    <string name="about2">Shadow Of Leaf</string>
+    <string name="about3">版:1.0 Stable</string>
+    <string name="nocnx">没有工作互联网连接 </string>
+    <string name="feedback">发送您的反馈</string>
+    <string name="contact">联络我</string>
+    <string name="email">simokb46@gmail.com</string>
+    <string name="username">用户名 :</string>
+    <string name="password">密码 :</string>
+    <string name="authen">认证</string>
+</resources>

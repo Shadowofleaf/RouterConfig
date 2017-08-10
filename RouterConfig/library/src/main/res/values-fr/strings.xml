@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!-- AlertDialog Update Available -->
+        <string name="appverupdate_update_available">Disponible une nouvelle mise à jour!</string>
+        <string name="appverupdater_content_update_available">Mettre à jour l\'application mobile%1$s vers la version%2$ s</string>
+        <string name="appverupdater_notes_update_available">Mettre à jour l\'application mobile%1$s vers la version%2$s \nCaractéristiques: \n%3$s</string>
+        <string name="appverupdater_positivetext_update_available">Mettre à jour</string>
+        <string name="appverupdater_negativetext_update_available">Plus tard</string>
+        <!-- AlertDialog Not Update Available -->
+        <string name="appverupdate_not_update_available">Aucune mise à jour disponible!</string>
+        <string name="appverupdater_content_not_update_available">Vous disposez de la dernière version de l\'application</string>
+        <!-- ProgressDialog Update Available -->
+        <string name="appverupdater_progressdialog_message_update_available">Téléchargement</string>
+        <!-- AlertDialog Denied Permissin -->
+        <string name="appverupdater_denied_message">Si vous refusez l\'autorisation, vous ne pouvez pas utiliser ce service</string>
+    </resources>

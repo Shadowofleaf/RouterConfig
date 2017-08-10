@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RouterConfig</string>
+    <string name="action_2">Methode 2</string>
+    <string name="action_1">Methode 1</string>
+    <string name="about">A Propos de Developpeur</string>
+    <string name="date">Date de Creation:7/8/2017</string>
+    <string name="about2">Shadow Of Leaf</string>
+    <string name="about3">Version:1.0 Stable</string>
+    <string name="nocnx">Pas de connexion internet Disponible</string>
+    <string name="feedback">Envoyer Ton Opinion </string>
+    <string name="contact">Contacter Moi</string>
+    <string name="username">Nom D\'Utilisateur</string>
+    <string name="password">Mot de Pass</string>
+</resources>

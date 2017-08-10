@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RouterConfig</string>
+    <string name="action_2">Metodo 2</string>
+    <string name="action_1">Metodo 1</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4071980736117337/4375672601</string>
+    <string name="about">Informazioni sullo sviluppatore </string>
+    <string name="date">Tempo di creazione:17/02/2017</string>
+    <string name="about2">Shadow Of Leaf</string>
+    <string name="about3">Versione:1.0 Stable</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="nocnx">Non c\'è alcuna connessione Internet di lavoro </string>
+    <string name="feedback">Invia la tua opinione</string>
+    <string name="contact">Contattami</string>
+    <string name="email">simokb46@gmail.com</string>
+    <string name="username">Nome utente :</string>
+    <string name="password">Parola d\'ordine :</string>
+    <string name="authen">Autenticazione</string>
+</resources>
